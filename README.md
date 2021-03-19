@@ -10,11 +10,12 @@ Victoria, BC | logan@kuzyk.net | logankuzyk.xyz
 	- Excellence honor roll (Grade 11-12)
 
 ### Technical Competencies
-- Practical ability in JavaScript/Node.js, Java, C, and Python languages
-- Proficient with software development tools such as Git, Linux and Bash
+- Proficiency in JavaScript/Node.js, Java, C, and Python languages
+- Proficiency with software development tools such as Git, Linux and Bash
 - Experience deploying services with cloud service providers
 - Experience writing unit tests using Python and JavaScript
-- Functional understanding of circuits and circuit diagrams
+- Experience developing frontend applications and user interfaces with Gatsby.js and Bootstrap
+- Understanding of the software development lifecycle and other software engineering principles
 - Proficient with espresso-making tasks, including advanced techniques such as temp-surfing
 
 ### Core Competencies
